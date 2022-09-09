@@ -62,8 +62,8 @@ const MainMint = ({ accounts, setAccounts }) => {
             fontFamily="VT323"
             textShadow="0 2px 2px #000000"
           >
-            It's 2100. Can the RoboPunks NFT save humans from destructive scam
-            NFTs? Mint RoboPunks to find out.
+            It's 2100. Can the SolmintNFTNFT save humans from destructive scam
+            NFTs? Mint SolmintNFTto find out.
           </Text>
         </div>
 
